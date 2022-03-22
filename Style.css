@@ -1,0 +1,17 @@
+body {
+    background-size: cover;
+}
+
+h1 {
+    border: 10px ridge red;
+    border-radius: 5px;
+}
+   
+h3 {
+    font-weight: bold;
+    font-style: italic;
+}
+
+canvas {
+    border: 5px ridge hsla(236, 89%, 48%, 0.836) ;
+}
